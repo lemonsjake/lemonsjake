@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemonsjake
+👋 Hi, I’m @lemonsjake
 
 <!---
 lemonsjake/lemonsjake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
